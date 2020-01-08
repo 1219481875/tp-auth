@@ -1,15 +1,25 @@
 {
     "name": "cmg/tp-auth",
-    "description": "auth package for thinkphp5-thinkphp6",
+    "description": "auth package for thinkphp5",
+    "homepage": "https://github.com/1219481875/tp-auth",
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
-    "version": "1.0.3",
-    "type": "project",
+    "minimum-stability": "stable",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "cmg",
-            "email": "cmg@qq.com"
+            "email": "1219481875@qq.com"
         }
     ],
-    "require": {}
+    "support": {
+        "issues": "https://github.com/1219481875/tp-auth/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\auth\\": "src/"
+        }
+    }
 }
