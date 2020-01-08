@@ -3,6 +3,7 @@
     "description": "auth",
     "type": "project",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "cmg",
