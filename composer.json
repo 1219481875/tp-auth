@@ -3,7 +3,7 @@
     "description": "auth package for thinkphp5-thinkphp6",
     "homepage": "https://github.com/cmg/tp-auth",
     "license": "Apache-2.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "version": "1.0.2",
     "authors": [
         {
