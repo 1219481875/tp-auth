@@ -1,0 +1,14 @@
+{
+    "name": "cmg/tp-auth",
+    "description": "auth",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cmg",
+            "email": "121@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
